@@ -3,7 +3,7 @@
 2.修改了域名刷新结果"host updated\n"为"addresses updated"以正确响应结果  
 
 
-编译用到的工具  
+重新编译用到的工具  
 AutoIt3 (https://www.autoitscript.com) ； https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe  
 AutoIt3Wrapper (part of AutoIt3 by default) ; SciTE4AutoIt3.exe,https://www.autoitscript.com/cgi-bin/getfile.pl?../autoit3/scite/download/SciTE4AutoIt3.exe  
 Au3Check (part of AutoIt3 by default) ?  
