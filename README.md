@@ -14,4 +14,6 @@ Optional: Windows 10 SDK's signtool (https://developer.microsoft.com/en-us/windo
 Optional: Working internet connection (needed to have signed timestamp on .exe files) ? 
 Optional: NSIS's makensis (http://nsis.sourceforge.net/Download) (needed to build setup);https://prdownloads.sourceforge.net/nsis/nsis-3.08-setup.exe?download 
 
-水平有限，谢谢。
+原README请查看README-OLD.md
+
+水平有限，欢迎批评指正，谢谢。
