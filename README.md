@@ -10,7 +10,7 @@ Au3Check (part of AutoIt3 by default) ?
 Tidy (part of AutoIt3 by default) ? 
 GnuWin32's sed utility (http://gnuwin32.sourceforge.net/packages/sed.htm) ; http://sourceforge.net/projects/gnuwin32/files//sed/4.2.1/sed-4.2.1-setup.exe/download 
 Optional: Valid Code-signing certificate / key ? 
-Optional: Windows 10 SDK's signtool (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk);https://go.microsoft.com/fwlink/?linkid=2173743,仅安装Windows SDK Signing Tools for Desktop Apps即可  
+Optional: Windows 10 SDK's signtool (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk);https://go.microsoft.com/fwlink/?linkid=2173743 , 仅安装Windows SDK Signing Tools for Desktop Apps即可  
 Optional: Working internet connection (needed to have signed timestamp on .exe files) ? 
 Optional: NSIS's makensis (http://nsis.sourceforge.net/Download) (needed to build setup);https://prdownloads.sourceforge.net/nsis/nsis-3.08-setup.exe?download 
 
