@@ -1,6 +1,6 @@
 REM Set locations of Dynephant directory, AutoIt3 binary, AutoIt3Wrapper script,
 REM the Windows 10 SDK signtool binary, and GnuWin32's sed utility binary below
-SET DYNDIR=D:\dynephant-master
+SET DYNDIR=D:\dynephant-RE-main
 SET AI3="C:\Program Files (x86)\AutoIt3\AutoIt3.exe"
 SET AI3W="C:\Program Files (x86)\AutoIt3\SciTE\AutoIt3Wrapper\AutoIt3Wrapper.au3"
 SET SIGNTOOL="C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x64\signtool.exe"
