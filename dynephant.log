@@ -3,3 +3,42 @@ Copyright (c) 2016 Chuck Renner
 Icon courtesy of http://www.how-to-draw-funny-cartoons.com
 [2022-02-14_09:55:14] Updated IPv6 host address
 [2022-02-14_09:55:14] Sleeping 300 seconds...
+[2022-02-14_10:00:14] Updated IPv6 host address
+[2022-02-14_10:00:14] Sleeping 300 seconds...
+[2022-02-14_10:05:27] Failed updating IPv6 host address
+  This could be caused by many things, including:
+  the dynv6.com service being down,, irresponsive, or malfuctioning,
+  no reachable Internet route (via IPv6) to the https://dynv6.com service,
+  a wrong or invalid value for <host>,
+  or a wrong or invalid value for <token>.
+[2022-02-14_10:05:27] Last attempt failed: Sleeping only 30 seconds...
+[2022-02-14_10:05:58] Failed updating IPv6 host address
+  This could be caused by many things, including:
+  the dynv6.com service being down,, irresponsive, or malfuctioning,
+  no reachable Internet route (via IPv6) to the https://dynv6.com service,
+  a wrong or invalid value for <host>,
+  or a wrong or invalid value for <token>.
+[2022-02-14_10:05:58] Last attempt failed: Sleeping only 30 seconds...
+[2022-02-14_10:06:28] Failed updating IPv6 host address
+  This could be caused by many things, including:
+  the dynv6.com service being down,, irresponsive, or malfuctioning,
+  no reachable Internet route (via IPv6) to the https://dynv6.com service,
+  a wrong or invalid value for <host>,
+  or a wrong or invalid value for <token>.
+[2022-02-14_10:06:28] Last attempt failed: Sleeping only 30 seconds...
+[2022-02-14_10:06:59] Failed updating IPv6 host address
+  This could be caused by many things, including:
+  the dynv6.com service being down,, irresponsive, or malfuctioning,
+  no reachable Internet route (via IPv6) to the https://dynv6.com service,
+  a wrong or invalid value for <host>,
+  or a wrong or invalid value for <token>.
+[2022-02-14_10:06:59] Last attempt failed: Sleeping only 30 seconds...
+[2022-02-14_10:07:29] Failed updating IPv6 host address
+  This could be caused by many things, including:
+  the dynv6.com service being down,, irresponsive, or malfuctioning,
+  no reachable Internet route (via IPv6) to the https://dynv6.com service,
+  a wrong or invalid value for <host>,
+  or a wrong or invalid value for <token>.
+[2022-02-14_10:07:29] Last attempt failed: Sleeping only 30 seconds...
+[2022-02-14_10:08:00] Updated IPv6 host address
+[2022-02-14_10:08:00] Sleeping 300 seconds...

@@ -1,2 +1,2 @@
 
-https://ipv6.dynv6.com/api/update?zone=cnnews.v6.rocks&ipv6=auto&token=randomtextforfoobarhere
+https://ipv6.dynv6.com/api/update?zone=yourdomainhere&ipv6=auto&token=yourtokenhere
