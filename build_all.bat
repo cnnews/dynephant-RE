@@ -1,3 +1,3 @@
-SET VERSION=0.9.1.14
-CMD /C D:\dynephant-RE-main\_build_all.bat
+SET VERSION=0.9.1.14.1
+CMD /C C:\Users\any\Documents\GitHub\dynephant-RE\_build_all.bat
 

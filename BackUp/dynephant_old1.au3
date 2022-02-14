@@ -14,10 +14,10 @@
 #pragma compile(Comments, In-development Dynamic DNS Updater for Windows currently supporting dynv6.com service. Icon courtesy of http://www.how-to-draw-funny-cartoons.com)
 #pragma compile(CompanyName, Chuck Renner)
 #pragma compile(FileDescription, Dynephant Dynamic DNS Updater)
-#pragma compile(FileVersion, 0.9.1.14.1)
+#pragma compile(FileVersion, 0.9.1.14)
 #pragma compile(LegalCopyright, Copyright © 2016 Chuck Renner)
 #pragma compile(ProductName, Dynephant)
-#pragma compile(ProductVersion, 0.9.1.14.1)
+#pragma compile(ProductVersion, 0.9.1.14)
 
 ; Change to y when debugging in SciTE
 #AutoIt3Wrapper_Run_Debug_Mode=n
@@ -68,7 +68,7 @@
 ;    (which will be overwritten), then call the batch file to build all versions.
 
 $sTitle = "Dynephant"
-$sVersion = "0.9.1.14.1"
+$sVersion = "0.9.1.14"
 $sCopyright = "Copyright © 2016 Chuck Renner"
 $sMisc = "Icon courtesy of http://www.how-to-draw-funny-cartoons.com"
 ConsoleWriteError($sTitle & " Version " & $sVersion & @LF)
@@ -95,7 +95,7 @@ $host = ""
 $token = ""
 $daemon = 0
 $clearIpv4 = False
-$clearIpv6 = False
+$clearIpv6 =
 $pt = "https"
 ; read and parse command line parameters
 For $pCnt = 1 To $CmdLine[0]
@@ -133,9 +133,9 @@ For $pCnt = 1 To $CmdLine[0]
 ;~ 					ConsoleWriteError("'" $param & "' not understood: will attempt to set IPv6 address: use -6=none to clear IPv6 address" & @LF)
 ;~ 					$clearIpv6 = False
 ;~ 				EndIf
-			Case "-p"
-				If $pExp[1] == "http" Then
-					$pt = $pExp[1]
+			case "-p"
+				if $pExp[1] == "http" Then
+				$pt = $pExp[1]
 				EndIf
 			Case Else
 				ConsoleWriteError("Unknown parameter: '" & $param & "'" & @LF)
