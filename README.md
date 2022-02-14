@@ -1,6 +1,7 @@
 # dynephant-RE
 1.修改了-host参数以可以使用非xxxx.dynv6.net的域名  
 2.修改了域名刷新结果"host updated\n"为"addresses updated"以正确响应结果  
+3.由于windows 7 下的IE不能正确打开dynv6的https网站，故增加了"-p=http"参数以使用http上传参数。默认使用HTTPS。
 
 
 重新编译用到的工具  
@@ -16,6 +17,6 @@ Optional: NSIS's makensis (http://nsis.sourceforge.net/Download) (needed to buil
 
 原README请查看README-OLD.md
 
-在windows7下的IE无法打开https的dynv6网站导致不能更新，不过http的dynv6可以更新。可能需要修改$dynv6Protocol = "https"为http后重新编译
+在windows7下的IE无法打开https的dynv6网站导致不能更新，不过http的dynv6可以更新。  
 
 水平有限，欢迎批评指正，谢谢。
